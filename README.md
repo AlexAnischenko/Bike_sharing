@@ -8,5 +8,5 @@
 
 Анищенко Александр
 
-[Веб-приложение в Streamlit](bikesharing-rkvf7khygl8ro46lgxqvni)
+[Веб-приложение в Streamlit](https://bikesharing-rkvf7khygl8ro46lgxqvni.streamlit.app/)
 
